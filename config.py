@@ -1,0 +1,3 @@
+API_KEY = "ZwMEsRmpnXsoTtzA2y69x7stNYQ7cY3J"
+TICKER = "XA.X:BTC-USD"
+
